@@ -1,0 +1,5 @@
+E:/GITHUB/AR_PROJECT_MINOR/.utmp/RelWithDebInfo/3l6v6z1w/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/GITHUB/AR_PROJECT_MINOR/.utmp/RelWithDebInfo/3l6v6z1w/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/GITHUB/AR_PROJECT_MINOR/.utmp/RelWithDebInfo/3l6v6z1w/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+E:/GITHUB/AR_PROJECT_MINOR/.utmp/RelWithDebInfo/3l6v6z1w/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+E:/GITHUB/AR_PROJECT_MINOR/.utmp/RelWithDebInfo/3l6v6z1w/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
